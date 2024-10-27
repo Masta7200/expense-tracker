@@ -20,4 +20,4 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Masta7200/expense-tracker.git# expense-tracker
 
-   the whole is available within the master brache.
+   the whole code is  within the master brache.
